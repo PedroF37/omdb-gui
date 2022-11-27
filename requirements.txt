@@ -3,3 +3,6 @@ charset-normalizer==2.1.1
 idna==3.4
 requests==2.28.1
 urllib3==1.26.12
+
+*Para além destas dependências, pelo menos no Linux Mint, para executar o script sem o ambiente virtual python venv, tem que instalar:
+"sudo apt install python3-pli.imagetk"
