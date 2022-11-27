@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=omdb-gui
+Comment=Consulta informações de filmes e séries pela API omdbapi
+Exec=python3 /home/pedro/bin/omdb-gui/omdb-gui.py
+Terminal=false
+Type=Application
+Icon=/home/pedro/.local/share/icons/omdb-gui.png
+Categories=Network
+Path=/home/pedro/bin/omdb-gui/
+StartupNotify=false
